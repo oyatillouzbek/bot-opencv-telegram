@@ -5,7 +5,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 from scripts import botNature, botAction
 
 # Token of your bot on Telegram
-botToken = 'XXXXXXXXX:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+botToken = '1124952210:AAFOKcduig5iKRDun7RMje1muqHa5tzoeXA'
 
 # Set the bot and start running it
 updater = Updater(botToken)
